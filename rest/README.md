@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/97dlt5ilqrvw3k7b/branch/master?svg=true)](https://ci.appveyor.com/project/stodoriko/aqa-code/branch/master)
